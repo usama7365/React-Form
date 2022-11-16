@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+img{
+  height: 35.81px;
+  width: 48px;
+background-size: 100% 100%;
+  /* border: 1px solid red; */
+}
+
+nav{
+  background: #05224F !important;
+
+}
+.para{
+  width: 100px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 23px;
+ 
+  
+  color: #FFFFFF;
+margin-bottom: 0%;
+  
+}
+.main{
+  height: 80px;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  align-items: baseline;
+
+
+}
+.navbar{
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+}
+select{
+  background: #05224F !important;
+  color: #FFFFFF !important;
+
+}
+option{
+color: #05224F !important;
+background-color: #FFFFFF;
+  
+}
+.form-select {
+color: #FFFFFF;
+
+}
